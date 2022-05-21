@@ -1,2 +1,2 @@
 # MinTic
-Proyecto de desarrollo Web del Ciclo 4 MinTic - Universidad Sergio Arboleda.
+Sistema administrador para directores comerciales que gestionan las ventas y asesores a cargo de su departamento.
